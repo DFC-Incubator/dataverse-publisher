@@ -8,6 +8,10 @@
 *.war
 *.ear
 
+# maven-specific
+*/target/**
+
+
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 
@@ -39,3 +43,8 @@ local.properties
 .cproject
 .classpath
 # JDT-specific (Eclipse Java Development To
+/nbproject/
+
+
+# netbeans-specific
+nbactions.xml
