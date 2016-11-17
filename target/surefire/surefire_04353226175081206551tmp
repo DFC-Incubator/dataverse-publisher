@@ -1,0 +1,11 @@
+#surefire_0
+#Thu Nov 17 13:19:22 EST 2016
+dataverseUrl=https\://irss-dvn41-akiotest.irss.unc.edu
+maven.ext.class.path=C\:\\NetBeans8.1\\java\\maven-nblib\\netbeans-eventspy.jar
+file.encoding=UTF-8
+apiKey=f140b7b0-5554-4aed-bcf5-72dfd87e9a94
+user.dir=C\:\\Users\\asone\\Documents\\GitHub\\dataverse-publisher
+localRepository=C\:\\Users\\asone\\.m2\\repository
+test=edu.unc.irss.arc.de.dvpublisher.DataverseClientTest
+dataverseAlias=apitest0
+basedir=C\:\\Users\\asone\\Documents\\GitHub\\dataverse-publisher

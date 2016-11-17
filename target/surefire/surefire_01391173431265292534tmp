@@ -1,0 +1,11 @@
+#surefire_0
+#Thu Nov 17 13:16:24 EST 2016
+dataverseUrl=http
+maven.ext.class.path=C\:\\NetBeans8.1\\java\\maven-nblib\\netbeans-eventspy.jar
+file.encoding=UTF-8
+apiKey=abcdefg
+user.dir=C\:\\Users\\asone\\Documents\\GitHub\\dataverse-publisher
+localRepository=C\:\\Users\\asone\\.m2\\repository
+test=edu.unc.irss.arc.de.dvpublisher.DataverseClientTest
+dataverseAlias=dvAlias
+basedir=C\:\\Users\\asone\\Documents\\GitHub\\dataverse-publisher

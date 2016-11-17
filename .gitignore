@@ -39,3 +39,8 @@ local.properties
 .cproject
 .classpath
 # JDT-specific (Eclipse Java Development To
+/nbproject/
+
+
+# netbeans-specific
+nbactions.xml
