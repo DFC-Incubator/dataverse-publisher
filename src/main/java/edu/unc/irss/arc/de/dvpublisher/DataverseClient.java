@@ -104,11 +104,11 @@ public class DataverseClient {
 		}
 
 		logger.log(Level.INFO, "running main method");
-		logger.log(Level.INFO, "dataverseUrl:{}", args[0]);
-		logger.log(Level.INFO, "apiKey:{}", args[1]);
-		logger.log(Level.INFO, "dataverseAlias:{}", args[2]);
-		logger.log(Level.INFO, "datasetId:{}", args[3]);
-		logger.log(Level.INFO, "fileLocation:{}", args[4]);
+		logger.log(Level.INFO, "dataverseUrl:{0}", args[0]);
+		logger.log(Level.INFO, "apiKey:{0}", args[1]);
+		logger.log(Level.INFO, "dataverseAlias:{0}", args[2]);
+		logger.log(Level.INFO, "datasetId:{0}", args[3]);
+		logger.log(Level.INFO, "fileLocation:{0}", args[4]);
 
 		DataverseClient dvClient = new DataverseClient(args[0], args[1],
 				args[2]);
